@@ -3,7 +3,8 @@ La librería llevará un control de las fechas y horarios para poder calcular cu
 **CLASE VALIDAR.**  
 Clase utilitaria encargada de validar datos como correos electrónicos, contraseñas y formatear fechas. Se utiliza para garantizar la integridad de los datos ingresados por el usuario.
 
-**Atributos:**
+**Atributos:**![Imagen de Prueba](https://github.com/user-attachments/assets/9fbdfe76-ab9f-489f-9d6d-d00b1fdd510c)
+
 
 private static final Locale ESPAÑOL  
 Representa la configuración regional en español (España), usada principalmente para el formato de fechas.
